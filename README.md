@@ -1,35 +1,4 @@
 
-SportsSync/
-│
-├── client/                     # React.js Frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/             # Images and static files
-│   │   ├── components/          # Reusable UI components
-│   │   ├── pages/               # Application pages
-│   │   ├── context/              # Global state management
-│   │   ├── services/             # API and Firebase services
-│   │   ├── hooks/                # Custom React hooks
-│   │   ├── utils/                # Helper functions
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
-│
-├── server/                     # Node.js Backend
-│   ├── config/                  # Firebase configuration
-│   ├── controllers/             # Request handlers
-│   ├── middleware/              # Authentication and RBAC
-│   ├── models/                  # Data models
-│   ├── routes/                  # REST API routes
-│   ├── services/                # Business logic
-│   ├── utils/                   # Utility functions
-│   ├── app.js
-│   └── package.json
-│
-├── docs/                       # Project documentation
-├── .gitignore
-├── README.md
-└── package.json
 # 🏆 SportsSync – Sports Club Management System
 
 **SportsSync** is a full-stack web application designed to streamline sports club operations through centralized athlete management, coach assignments, secure authentication, and administrative workflows.
